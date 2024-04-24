@@ -9,7 +9,7 @@ Then My Blaze Method was created, Checking if a account exists in rec rooms data
 Soon after they completely fixed the Password Reset and the flaw in their recaptcha.
 Then i had to stop working on this project.
 
-Soon after in january sparked up some new code and was able to bypass multiple recaptchas via rec.nets page and abuse api accordingly. I plan on
+After in january sparked up some new code and was able to bypass multiple recaptchas via rec.nets page and abuse api accordingly. I plan on
 turning everything to my knowledge via bugcrowd due to copy and pasters. More markdown on this soon and will comply ! the 2fa bypass was fixed since then but, i developed
 a pin crack method to get into secured accounts. Api is still very vulnerable and rec.net needs to protect needed functions via page. I was sparked interest to bug crowd
 because hiding everything isnt the way to go about things. To this day i am still able to use solvers that are avaliable online with this project and recreated Blaze fully
